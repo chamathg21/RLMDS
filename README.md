@@ -404,19 +404,6 @@ On GPU (NVIDIA RTX 2080):
 
 ## References & Citation
 
-This project implements methods described in federated learning security literature:
-- Federated learning aggregation (McMahan et al., 2016)
-- Cosine similarity-based clustering for anomaly detection
-- Q-learning for sequential classification
-
-## License
-
-[Specify your license here]
-
-## Authors
-
-[Your name and affiliations]
-
 ## Contributing
 
 For bug reports, feature requests, or contributions, please submit an issue or pull request.
@@ -440,6 +427,5 @@ A: Fully reproducible with same random seed and same PyTorch version. Results ar
 
 ---
 
-**Questions?** Check the code comments or the comprehensive docstrings in each module.
 
 
